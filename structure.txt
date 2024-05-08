@@ -1,0 +1,81 @@
+    .
+    |
+    |___ App
+    |    |
+    |    |___ Config
+    |    |    |
+    |    |    |___ config.php
+    |    |    |
+    |    |    |___ helpers.php
+    |    |
+    |    |___ Controllers
+    |    |    |
+    |    |    |___ HomeController.php
+    |    |    |
+    |    |    |___ ProductsController.php
+    |    |
+    |    |___ Core 
+    |    |    |
+    |    |    |___ DB
+    |    |    |   |
+    |    |    |   |___ ...
+    |    |    |
+    |    |    |___ App.php
+    |    |    |
+    |    |    |___ Controller.php
+    |    |    |
+    |    |    |___ DB.php
+    |    |    |
+    |    |    |___ View.php
+    |    |
+    |    |___ Database
+    |    |    |
+    |    |    |___ products.sql
+    |    |
+    |    |___ Models
+    |    |    |
+    |    |    |___ Products.php
+    |    |
+    |    |___ Views
+    |    |    |
+    |    |    |___ inc
+    |    |    |    |
+    |    |    |    |___ header.php
+    |    |    |    |
+    |    |    |    |___ footer.php
+    |    |    |    
+    |    |    |___ products
+    |    |    |    |
+    |    |    |    |___ add.php
+    |    |    |    |
+    |    |    |    |___ edit.php
+    |    |    |    |
+    |    |    |    |___ delete.php
+    |    |    |    |
+    |    |    |    |___ index.php
+    |    |    |
+    |    |    |___ error.php
+    |    |    |
+    |    |    |___ home.php
+    |    |
+    |___ Public
+    |    |
+    |    |___ Assets
+    |    |    |
+    |    |    |___ images
+    |    |        |
+    |    |        |___ error-image.png
+    |    |        |
+    |    |        |___ logo.png
+    |    |
+    |    |___ Uploads
+    |    |
+    |    |___ .htaccess
+    |    | 
+    |    |___ autoload.php
+    |    |
+    |    |___ index.php
+    |
+    |___ structure.txt
+    |
+    |___ README.md
